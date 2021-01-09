@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:my_notes_taking_app/services/sharedPref.dart';
-import '../../../../../lib/screens/home.dart';
-import '../../../../../lib/data/theme.dart';
+import 'package:final_paper/Services/sharedPref.dart';
+import 'Screens/home.dart';
+import 'data/theme.dart';
 
 class MyApp extends StatefulWidget {
   // This widget is the root of your application.
