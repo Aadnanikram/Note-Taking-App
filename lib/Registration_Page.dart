@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:my_notes_taking_app/Login_Page.dart';
+import 'package:final_paper/Login_Page.dart';
 
 class SignUpScreen extends StatefulWidget {
   @override

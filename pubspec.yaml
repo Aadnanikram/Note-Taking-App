@@ -1,5 +1,5 @@
 name: final_paper
-description: A new Flutter project.
+description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -23,11 +23,20 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  outline_material_icons:
+  sqflite:
+  intl: ^0.16.1
+  url_launcher:
+  shared_preferences: ^0.5.12+4
+  share: ^0.6.5+4
+  fluttertoast:
+  firebase_auth:
+  firebase_core:
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.3
+  cupertino_icons: ^1.0.0
 
 dev_dependencies:
   flutter_test:

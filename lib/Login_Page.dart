@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:my_notes_taking_app/Registration_Page.dart';
-import 'package:my_notes_taking_app/main.dart';
+import 'package:final_paper/Registration_Page.dart';
+import 'package:final_paper/main.dart';
 
 void main() => runApp(MaterialApp(home: SignInScreen()));
 
