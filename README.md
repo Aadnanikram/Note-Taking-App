@@ -1,4 +1,4 @@
-# final_paper
+# Note Taking App in flutter 
 
 ![Screenshot_20210109-220617](https://user-images.githubusercontent.com/72295827/104104466-3b952b80-525d-11eb-80f7-e20c2b5aa37a.png)
 ![Screenshot_20210109-220612](https://user-images.githubusercontent.com/72295827/104104467-4059df80-525d-11eb-81da-762fe34dbd34.png)
